@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kattabozor Test</string>
+    <string name="view_error_title">An error occurred</string>
+    <string name="view_error_retry">Retry</string>
+</resources>
